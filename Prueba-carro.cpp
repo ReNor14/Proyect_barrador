@@ -6,7 +6,8 @@ using namespace std;
 //Dibujo del carro
 
 //Funcion de dibujo 
-Void drawF1Car(){
+//El void estaba en mayuscula, asi "Void" y no "void"
+void drawF1Car(){
     cout << "      __" << endl;
     cout << "     / __ \\" << endl;
     cout << "    | |  | |" << endl;
